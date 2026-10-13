@@ -1,0 +1,34 @@
+# Environments
+venv/
+.venv/
+env/
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Python cache & test
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs & temporary files
+*.log
+scratch/
+test_*.py.bak
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
